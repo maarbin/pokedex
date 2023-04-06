@@ -25,7 +25,7 @@ Pokemon data Web Scraping and Visualizations
 
 Filters on:
 
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/screenshot1.png)
 
 ## Project Status
 Project is: _in progress_ 
