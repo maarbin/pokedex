@@ -5,8 +5,6 @@ Pokemon data Web Scraping and Visualizations
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 
 
 ## General Information
@@ -27,10 +25,5 @@ Filters on:
 
 ![Example screenshot](./img/screenshot1.png)
 
-## Project Status
-Project is: _in progress_ 
 
-
-## Room for Improvement
-Working on better web scraping script and include in dataset images for regional form Pokemons.
 
